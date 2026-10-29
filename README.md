@@ -1,10 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:2563eb,100:22d3ee&amp;height=210&amp;section=header&amp;text=RAVI%20KUMAR&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=FULL%20STACK%20%2F%20APPLIED%20AI&amp;descAlignY=74&amp;descSize=16" alt="Ravi Kumar — full-stack development and applied AI" />
+
 <div align="center">
 
 # Hi, I'm Ravi Kumar
 
 ### Full-stack development · Applied AI · Agentic systems
 
-Building React interfaces, Java backends, and AI-powered applications.
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=React+interfaces.+Java+backends.;Machine+learning.+Agentic+workflows.;Building+ideas+into+working+applications." alt="Animated introduction: React interfaces, Java backends, machine learning, and agentic workflows" /></p>
 
 [Portfolio](https://ravi-kumar-portfolio-three.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ravi-kumar-446815312/) &nbsp; / &nbsp; [Email](mailto:ravikumar7892y@gmail.com)
 
@@ -23,6 +25,8 @@ I enjoy connecting polished frontends with practical backend systems, and explor
 - **Beyond code:** 200+ DSA problems solved on TakeUForward and a Black Belt in Karate.
 
 ## Technical skills
+
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,js,c,react,html,css,spring,mysql,mongodb,tensorflow,git,github,postman&amp;perline=7" alt="Java, Python, JavaScript, C, React, HTML, CSS, Spring, MySQL, MongoDB, TensorFlow, Git, GitHub, and Postman" /></p>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -74,3 +78,6 @@ Explore project details and more work on my **[portfolio](https://ravi-kumar-por
 [Connect on LinkedIn](https://www.linkedin.com/in/ravi-kumar-446815312/) · [Send an email](mailto:ravikumar7892y@gmail.com)
 
 </div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:2563eb,100:22d3ee&amp;height=100&amp;section=footer" alt="Blue wave footer" />
